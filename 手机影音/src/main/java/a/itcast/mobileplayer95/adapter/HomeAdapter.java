@@ -117,14 +117,17 @@ public class HomeAdapter extends RecyclerView.Adapter<HomeAdapter.MyViewHolder> 
                     case 1:
                     case 5:
                     case 7:
+                    case 2:
+                    case 3:
                         mIntent = new Intent(context, PlayerActivity.class);
                         mIntent.putExtra("url",videoBean.getUrl());
                         mIntent.putExtra("title",videoBean.getTitle());
                         context.startActivity(mIntent);
                         break;
-                    case 2:
-                    case 3:
-                        break;
+//                    case 2:
+//                    case 3:
+//                      // TODO: 2017/9/27 有空自己把 悦单 和 star 的界面填充下 现在直接放在上面
+//                        break;
 
                 }
             }

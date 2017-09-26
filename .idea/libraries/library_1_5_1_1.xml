@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="library-1.5.1.1">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/手机影音/build/intermediates/exploded-aar/com.apkfuns.logutils/library/1.5.1.1/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/手机影音/build/intermediates/exploded-aar/com.apkfuns.logutils/library/1.5.1.1/res" />
+      <root url="file://$USER_HOME$/.android/build-cache/c0e35cf32c10debfcc84cc8fbf0f6a55c491de33/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/c0e35cf32c10debfcc84cc8fbf0f6a55c491de33/output/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
